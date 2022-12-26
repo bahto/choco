@@ -22,4 +22,5 @@ choco install -y vlc
 choco install -y vmware-horizon-client 
 choco install -y vscode 
 choco install -y winmerge 
-choco install -y winscp 
+choco install -y winscp
+choco install -y PDFXchangeEditor
