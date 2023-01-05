@@ -24,3 +24,4 @@ choco install -y vscode
 choco install -y winmerge 
 choco install -y winscp
 choco install -y PDFXchangeEditor
+choco install -y python
