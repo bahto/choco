@@ -1,6 +1,6 @@
 choco install -y 7zip
 choco install -y azure-cli 
-choco install -y azure-functions-core-tools 
+choco install -y azure-functions-core-tools --params="'/x64:true'"
 choco install -y bicep 
 choco install -y chocolateygui 
 choco install -y docker-desktop 
